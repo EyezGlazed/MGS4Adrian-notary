@@ -1,0 +1,1 @@
+f85494606c3b35afac89608ddfd2bb5086e0b2f38f157c9fc8f7f35fef8f1290  release-1.0.2.manifest.txt
