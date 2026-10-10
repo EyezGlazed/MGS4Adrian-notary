@@ -1,0 +1,15 @@
+ADRIAN MILESTONE COMMITMENT v1
+milestone:     release-1.1.4
+builtUTC:      2026-10-10T08:54:49Z
+
+manifest-sha256:  5ad8c51f75ecb526be2410a99f5678a5171103395a069e17352782e72da4c8d4
+signature-sha256: 0500b204c1133f737ed4b9a716a85c6d47cbf3a6838fb0396c87ddd9c6e34416
+signing-key-fpr:  SHA256:pk5S5cpmAd4GmpsqadWx6dr+M8v20QpOG2ZD+T+78Wo
+signing-key:      ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIH300QJrytE/QWyoAmV2SAK5gGG85g8rtf7gYmLqHFc4 luggruff adrian milestone signing
+
+[mgs4] commit fac978875a1040fa46c99cffcbf71f3d9155fdf7  tag 70fa2e565b9ab288276fc0d9462ee82881864ed2
+[bbtracker] commit 1b7352a5123de492c992e184b4aef8171d06cc15  tag 7767c1852d243793e7394d3325ff2becbe203a28
+
+The manifest lists the SHA-256 of every tracked file at those commits.
+It and the source stay private. Timestamping this file externally
+attests that the state and the signature over it both existed by then.
